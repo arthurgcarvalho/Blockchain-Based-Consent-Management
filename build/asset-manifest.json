@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "https://blockchaindapps.org/consent/static/css/main.0d76cca9.chunk.css",
+    "main.js": "https://blockchaindapps.org/consent/static/js/main.fe80386c.chunk.js",
+    "main.js.map": "https://blockchaindapps.org/consent/static/js/main.fe80386c.chunk.js.map",
+    "runtime-main.js": "https://blockchaindapps.org/consent/static/js/runtime-main.2fe47e4a.js",
+    "runtime-main.js.map": "https://blockchaindapps.org/consent/static/js/runtime-main.2fe47e4a.js.map",
+    "static/css/2.929389fa.chunk.css": "https://blockchaindapps.org/consent/static/css/2.929389fa.chunk.css",
+    "static/js/2.688092cb.chunk.js": "https://blockchaindapps.org/consent/static/js/2.688092cb.chunk.js",
+    "static/js/2.688092cb.chunk.js.map": "https://blockchaindapps.org/consent/static/js/2.688092cb.chunk.js.map",
+    "index.html": "https://blockchaindapps.org/consent/index.html",
+    "precache-manifest.7f8c680baab4e20bd4017f68d9ed6d52.js": "https://blockchaindapps.org/consent/precache-manifest.7f8c680baab4e20bd4017f68d9ed6d52.js",
+    "service-worker.js": "https://blockchaindapps.org/consent/service-worker.js",
+    "static/css/2.929389fa.chunk.css.map": "https://blockchaindapps.org/consent/static/css/2.929389fa.chunk.css.map",
+    "static/css/main.0d76cca9.chunk.css.map": "https://blockchaindapps.org/consent/static/css/main.0d76cca9.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2fe47e4a.js",
+    "static/css/2.929389fa.chunk.css",
+    "static/js/2.688092cb.chunk.js",
+    "static/css/main.0d76cca9.chunk.css",
+    "static/js/main.fe80386c.chunk.js"
+  ]
+}
